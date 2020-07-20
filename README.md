@@ -1,4 +1,4 @@
-# Drone.py
+# Drone Project
 Parrot AR 2.0 Drone
 
 For this project, we were asked to program a drone to fly autonomously while being able to detect a marker. 
